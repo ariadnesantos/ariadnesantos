@@ -7,7 +7,7 @@
 -    I'm currently studying at <a href="https://www.laboratoria.la/br" target="_blank">Laboratoria < L ></a>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,git,jest,figma&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,mongodb,git,jest,figma&perline=8)](https://skillicons.dev)
 
 #### You can find me:
 <div> 
